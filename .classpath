@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="akka-library-library/src/main/java"/>
+  <classpathentry kind="src" path="akka-library-library/src/main/resources"/>
+  <classpathentry kind="src" path="du/src/main/java"/>
+  <classpathentry kind="src" path="du/src/main/resources"/>
+  <classpathentry kind="src" path="ra/src/main/java"/>
+  <classpathentry kind="src" path="ra/src/main/resources"/>
+  <classpathentry kind="src" path="ratype/src/main/java"/>
+  <classpathentry kind="src" path="ratype/src/main/resources"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-actor_2.11/2.3.7/akka-actor_2.11-2.3.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-remote_2.11/2.3.7/akka-remote_2.11-2.3.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/config/1.2.1/config-1.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/netty/netty/3.8.0.Final/netty-3.8.0.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/slee/jain-slee/1.1/jain-slee-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/transaction/jta/1.1/jta-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mobicents/servers/jainslee/core/fault-tolerant-ra-api/2.6.0.FINAL/fault-tolerant-ra-api-2.6.0.FINAL.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.11.4/scala-library-2.11.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="target/classes"/>
+</classpath>

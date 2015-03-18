@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deploy-config>
+    <ra-entity entity-name="AkkaRA" resource-adaptor-id="ResourceAdaptorID[name=Akka-RA,vendor=rockville,version=1.0]">
+     <ra-link name="AkkaRA" />
+    </ra-entity>
+</deploy-config>
